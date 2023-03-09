@@ -15,4 +15,4 @@ Programming Tasks in CryptographyLessons
 |No|Content|Y/N|
 |:--------:|:--------:|:--------:|
 | Project 1 | PKCS #1 v2.2 | Y |
-| Project 2 | ECDSA | N |
+| Project 2 | ECDSA | Y |
